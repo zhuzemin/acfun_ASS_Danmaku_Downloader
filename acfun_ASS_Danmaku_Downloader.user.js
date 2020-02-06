@@ -1,17 +1,20 @@
 // ==UserScript==
 // @name        AcFun ASS Danmaku Downloader
+// @name:zh-CN         AcFun ASS Danmaku Downloader
+// @name:zh-TW         AcFun ASS Danmaku Downloader
 // @namespace   https://github.com/tiansh, https://github.com/zhuzemin
 // @description 以 ASS 格式下载 AcFun 的弹幕
+// @description:zh-TW  以 ASS 格式下载 AcFun 的弹幕
+// @description:zh-CN 以 ASS 格式下载 AcFun 的弹幕
 // @include     https://www.acfun.cn/v/*
 // @include     https://www.acfun.cn/bangumi/*
-// @version     1.17
+// @version     1.16
 // @grant       GM_addStyle
 // @grant       GM_xmlhttpRequest
 // @run-at      document-start
 // @copyright   2014+, 田生, Modified by zhuzemin
 // @license     Mozilla Public License 2.0; http://www.mozilla.org/MPL/2.0/
 // @license     CC Attribution-ShareAlike 4.0 International; http://creativecommons.org/licenses/by-sa/4.0/
-// @connect-src danmu.aixifan.com
 // ==/UserScript==
 
 /*
